@@ -18,7 +18,7 @@ const copyText = (e) => {
     btn.textContent = "Copied";
     setTimeout(() => {
       btn.textContent = "코피!!";
-    }, 2000);
+    }, 3000);
   });
 };
 
