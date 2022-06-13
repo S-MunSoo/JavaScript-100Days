@@ -5,3 +5,8 @@
 #### 100day
 
 - day6 : Vowel Counter
+- day7 : Click to Copy
+- day8 : Googel Drive Download
+- day9 : Input Field Character Count
+- day10 : Internet Connection
+- day12 : navigator.geolocation.getCurrentPosition API
