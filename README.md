@@ -10,3 +10,4 @@
 - day9 : Input Field Character Count
 - day10 : Internet Connection
 - day12 : navigator.geolocation.getCurrentPosition API
+- day13 : fetch() API
