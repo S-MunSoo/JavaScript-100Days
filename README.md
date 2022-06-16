@@ -11,3 +11,5 @@
 - day10 : Internet Connection
 - day12 : navigator.geolocation.getCurrentPosition API
 - day13 : fetch() API
+- day14 : RandomQuotes
+- day15 : SmoothScroll
