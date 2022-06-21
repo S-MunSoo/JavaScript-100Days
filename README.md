@@ -13,3 +13,4 @@
 - day13 : fetch() API
 - day14 : RandomQuotes
 - day15 : SmoothScroll
+- day24 : Responsive Mobile Header
