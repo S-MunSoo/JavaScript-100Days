@@ -14,3 +14,4 @@
 - day14 : RandomQuotes
 - day15 : SmoothScroll
 - day24 : Responsive Mobile Header
+- day31 : localStorage Section
