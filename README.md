@@ -16,3 +16,4 @@
 - day24 : Responsive Mobile Header
 - day31 : localStorage Section
 - day33 : NotesApp
+- day42 : Async Await
