@@ -6,7 +6,7 @@
 
 - day6 : Vowel Counter
 - day7 : Click to Copy
-- day8 : Googel Drive Download
+- day8 : Google Drive Download
 - day9 : Input Field Character Count
 - day10 : Internet Connection
 - day12 : navigator.geolocation.getCurrentPosition API
@@ -17,3 +17,4 @@
 - day31 : localStorage Section
 - day33 : NotesApp
 - day42 : Async Await
+- day55 : FormValidation
